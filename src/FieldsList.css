@@ -1,0 +1,26 @@
+.fields-list-container {
+    width: 300px;
+    padding: 20px;
+    border-left: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  .fields-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .field-item {
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .field-item:hover {
+    background-color: #f1f1f1;
+  }
+  
